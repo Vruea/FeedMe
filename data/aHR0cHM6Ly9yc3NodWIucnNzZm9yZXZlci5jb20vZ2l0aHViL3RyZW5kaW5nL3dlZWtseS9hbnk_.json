@@ -1,0 +1,191 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "boykopovar/AnyPS5",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/480b7d6efb96fc1568ebbcae81b37443a0a814a2cd0f2bb067d909a0267c34dc/boykopovar/AnyPS5\" referrerpolicy=\"no-referrer\"><br>Tool for automatic PS5 executables porting to Linux and Windows<br><br>Language: C++<br>Stars: 26405<br>Forks: 2210",
+      "contentSnippet": "Tool for automatic PS5 executables porting to Linux and Windows\nLanguage: C++\nStars: 26405\nForks: 2210",
+      "creator": "boykopovar",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0552c43edcd26126c473609e736895b44d11f00ab06fb05bc889b74d8b15328b/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 284320<br>Forks: 23800",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 284320\nForks: 23800",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "EpicGames/raddebugger",
+      "link": "https://github.com/EpicGames/raddebugger",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/db32272cc6cfd689753d120c6a3076cf230ca3907585978ad1b888b9c52a1699/EpicGames/raddebugger\" referrerpolicy=\"no-referrer\"><br>A native, user-mode, multi-process, graphical debugger.<br><br>Language: C<br>Stars: 8325<br>Forks: 403",
+      "contentSnippet": "A native, user-mode, multi-process, graphical debugger.\nLanguage: C\nStars: 8325\nForks: 403",
+      "creator": "EpicGames",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba\" referrerpolicy=\"no-referrer\"><br>Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More<br><br>Language: TypeScript<br>Stars: 99201<br>Forks: 8690",
+      "contentSnippet": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\nLanguage: TypeScript\nStars: 99201\nForks: 8690",
+      "creator": "thedotmack",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/aab1037b087fe65d206a9a5fcddb3379f3ae82248ed2bbcbbcae02036a6af5ed/heygen-com/hyperframes\" referrerpolicy=\"no-referrer\"><br>Write HTML. Render video. Built for agents.<br><br>Language: TypeScript<br>Stars: 60314<br>Forks: 5386",
+      "contentSnippet": "Write HTML. Render video. Built for agents.\nLanguage: TypeScript\nStars: 60314\nForks: 5386",
+      "creator": "heygen-com",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mvschwarz/openrig",
+      "link": "https://github.com/mvschwarz/openrig",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1198124295/1af4015a-ccfc-48e2-9d75-81ff3f15e3a1\" referrerpolicy=\"no-referrer\"><br>Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.<br><br>Language: TypeScript<br>Stars: 6715<br>Forks: 495",
+      "contentSnippet": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.\nLanguage: TypeScript\nStars: 6715\nForks: 495",
+      "creator": "mvschwarz",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3eb8edee8a859f4108ebc714595de69cd268f4556a53612e144411ff10ef43f9/cursor/plugins\" referrerpolicy=\"no-referrer\"><br>Cursor plugin specification and official plugins<br><br>Language: TypeScript<br>Stars: 10743<br>Forks: 1024",
+      "contentSnippet": "Cursor plugin specification and official plugins\nLanguage: TypeScript\nStars: 10743\nForks: 1024",
+      "creator": "cursor",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "earthtojake/text-to-cad",
+      "link": "https://github.com/earthtojake/text-to-cad",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e1b5192a5c9f51c4512ba353901cc09de25c22c82a2d17f79681b421043a5f9d/earthtojake/text-to-cad\" referrerpolicy=\"no-referrer\"><br>Give your agent CAD superpowers.<br><br>Language: Python<br>Stars: 18971<br>Forks: 1871",
+      "contentSnippet": "Give your agent CAD superpowers.\nLanguage: Python\nStars: 18971\nForks: 1871",
+      "creator": "earthtojake",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "flutter/flutter",
+      "link": "https://github.com/flutter/flutter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1\" referrerpolicy=\"no-referrer\"><br>Flutter makes it easy and fast to build beautiful apps for mobile and beyond<br><br>Language: Dart<br>Stars: 179465<br>Forks: 33581",
+      "contentSnippet": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond\nLanguage: Dart\nStars: 179465\nForks: 33581",
+      "creator": "flutter",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8c8bf5eb87b815eb1b88c70f2d427970bb01342015670e0e8e359325a90c8e5a/pingdotgg/t3code\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 26798<br>Forks: 7022",
+      "contentSnippet": "Language: TypeScript\nStars: 26798\nForks: 7022",
+      "creator": "pingdotgg",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ranxianglei/billion-context",
+      "link": "https://github.com/ranxianglei/billion-context",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/82bbae0b91f19844e3409c8e48faa021d338ad6a2648f88e12cd05d46d64b2e9/ranxianglei/billion-context\" referrerpolicy=\"no-referrer\"><br>A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need<br><br>Language: TypeScript<br>Stars: 772<br>Forks: 74",
+      "contentSnippet": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need\nLanguage: TypeScript\nStars: 772\nForks: 74",
+      "creator": "ranxianglei",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "DuarteSantos8/openGym",
+      "link": "https://github.com/DuarteSantos8/openGym",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/135cf5bdbbdcb3378e6e998a2dfdc16abde820f6bb01c48bc2b35a275722c066/DuarteSantos8/openGym\" referrerpolicy=\"no-referrer\"><br>Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.<br><br>Language: JavaScript<br>Stars: 9183<br>Forks: 1144",
+      "contentSnippet": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.\nLanguage: JavaScript\nStars: 9183\nForks: 1144",
+      "creator": "DuarteSantos8",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "tester-army/e2e",
+      "link": "https://github.com/tester-army/e2e",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1308631234/358e34a0-4e46-4400-b092-63a397fe9d48\" referrerpolicy=\"no-referrer\"><br>Next generation e2e testing framework for web and mobile apps.<br><br>Language: TypeScript<br>Stars: 8692<br>Forks: 421",
+      "contentSnippet": "Next generation e2e testing framework for web and mobile apps.\nLanguage: TypeScript\nStars: 8692\nForks: 421",
+      "creator": "tester-army",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T21:43:38.901Z"
+}
